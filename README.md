@@ -1,1 +1,2 @@
 # UNIVERSAL-SHIFT-REGISTER
+This repository contains the RTL and testbench code for a Universal Shift Register. A Universal Shift Register is a versatile digital circuit that can perform various shifting operations (left, right, parallel load) based on control inputs. It can be used in a wide range of applications such as data manipulation and storage, serial-to-parallel and parallel-to-serial data conversion, and more.
